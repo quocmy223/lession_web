@@ -1,0 +1,58 @@
+
+		/*class*/
+		*{
+			color: black;
+		}
+		div {
+			color: blue;
+		}
+
+		.red {
+			color: red;
+		}
+		.blue {
+			color: blue;
+		}
+		.black {
+			color: black;
+		}
+		.tim {
+			color: #993366;
+		}
+		.tim1 {
+			color: #FF6600;
+		}
+		.cam {
+			color: #FF6600;
+		}
+		.lam {
+			color: #99FFCC;
+		}
+
+		.xam{
+			color: #b4b4b4;
+		}
+
+		tr.background0{
+			background-color: #cccccc;
+		}
+		tr.background1{
+			background-color: #787878;
+		}
+		tr.background2{
+			background-color: #b4b4b4;
+		}
+		tr.background3{
+			background-color: #f0f0f0;
+		}
+		tr.background4{
+			background-color: #ffffff;
+		}
+		tr.background5{
+			background-color: #3cb371;
+		}
+		#maudo {
+			color: red
+		}
+
+
